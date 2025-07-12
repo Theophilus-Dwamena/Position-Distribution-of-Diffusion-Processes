@@ -1,4 +1,4 @@
-# Position-Distribution-of-Diffusion-Processes
+# Position-Distribution-of-Diffusion-Processes ([Read](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Position_Distributions.pdf))
 This project focuses on the position distributions of:
 1. [Simple diffusion](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Simple%20diffusion.ipynb)
 2. [Simple diffusion with resetting](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Simple%20diffusion%20with%20resetting.ipynb) [^1]
