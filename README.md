@@ -3,7 +3,7 @@ This project focuses on the position distributions of:
 1. [Simple diffusion](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Simple%20diffusion.ipynb)
 2. [Simple diffusion with resetting](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Simple%20diffusion%20with%20resetting.ipynb) [^1]
 3. [Sluggish random walk](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Sluggish_Random_Walk.ipynb) [^2]
-4. Sluggish random walk with resetting (Novel approach with publishable working paper).
+4. [Sluggish random walk with resetting](https://github.com/Theophilus-Dwamena/Position-Distribution-of-Diffusion-Processes/blob/main/Sluggish%20with%20Resetting.ipynb) (Novel approach with publishable working paper).
 
 We compared simulations with derived analytics.
 
